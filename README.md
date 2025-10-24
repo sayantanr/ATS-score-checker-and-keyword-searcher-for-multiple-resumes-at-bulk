@@ -83,7 +83,7 @@ A powerful, AI-driven resume analyzer built with **Streamlit** that checks multi
 
    ```bash
    git clone https://github.com/sayantanr/ATS-score-checker-and-keyword-searcher-for-multiple-resumes-at-bulk.git
-   cd 
+   cd ATS-score-checker-and-keyword-searcher-for-multiple-resumes-at-bulk-main\ATS-score-checker-and-keyword-searcher-for-multiple-resumes-at-bulk-main
    ```
 
 2. Install core dependencies:
