@@ -54,15 +54,6 @@ A Streamlit web application designed to analyze multiple resumes (PDF or TXT fil
 - Keywords: `data science, Python, AWS, agile`.
 - Output: Scores like 75% for `resume1.pdf` (matched: `data science, Python, AWS`).
 
-## Screenshots
-*(Add screenshots here in a real repo, e.g., via GitHub image embeds.)*
-
-- **Upload and Input Panel**:
-  ![Sidebar Upload](screenshots/sidebar.png)
-
-- **Results Table and Chart**:
-  ![Results Dashboard](screenshots/dashboard.png)
-
 ## Limitations
 - Only supports PDF and TXT formats (PDF text extraction may vary based on document complexity).
 - Keyword matching is exact-word only (e.g., "Python" won't match "Pythonic").
